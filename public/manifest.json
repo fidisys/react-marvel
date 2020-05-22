@@ -1,0 +1,19 @@
+{
+  "short_name": "ReactJS Marvel POC UI",
+  "name": "ReactJS Marvel POC UI",
+  "display": "standalone",
+  "start_url": ".",
+  "theme_color": "#0D253F",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "folder_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "folder_512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
